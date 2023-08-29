@@ -1,8 +1,4 @@
-# React + Vite
+# About the site
+A simple Nike show showcase site built using [Tailwind](https://tailwindcss.com/) and [Vite+React](https://vitejs.dev/), a modern, good-looking, and easy-to-use web application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It's still in development so stay tuned for the future result. <33
